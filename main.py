@@ -34,7 +34,7 @@ set_site_information(
              "CFI free LBO guides, for checking the finance logic"],
     planning=["week10_brainstorm.docx", "week11_design.docx"],
     links=["https://github.com/dgraditor07/business-acquisition-analyzer",
-           "https://REPLACE-WITH-YOUR-VIDEO-URL"]
+           "https://drive.google.com/file/d/1KxSBM4DzC-G7mRnRaT3qP1ey_WiEgZTP/view?usp=sharing"]
 )
 hide_debug_information()
 set_website_title("Business Acquisition Analyzer")
