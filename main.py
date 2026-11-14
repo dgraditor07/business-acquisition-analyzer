@@ -8,8 +8,6 @@ the deal a rating. This is a simple model for learning, not financial advice.
 
 Things I used that we didnt cover in class:
   - "{:,.0f}".format(x) formats numbers (used in money, percent, multiple)
-  - text.strip() takes off spaces at the beginning and end of text
-  - my_list.pop(i) removes whatever item is at position i
   - x ** (1 / n) gives the n-th root, which I use for IRR
   - Header, Table, Row, HorizontalRule, Text are Drafter components for
     titles, tables, buttons next to each other, lines, and text
